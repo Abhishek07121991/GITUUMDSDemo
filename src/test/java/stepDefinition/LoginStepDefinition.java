@@ -44,6 +44,8 @@ public class LoginStepDefinition extends testBase {
 		
 		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS) ;
 		
+		System.out.println("Added one new step");
+		
 	}
 	
 	@Given("^user clicks on the hyperlink$")
