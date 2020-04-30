@@ -46,6 +46,10 @@ public class LoginStepDefinition extends testBase {
 		
 		System.out.println("Added one new step");
 		
+		System.out.println("Added one new step");
+		
+		System.out.println("Added one new step");
+		
 	}
 	
 	@Given("^user clicks on the hyperlink$")
@@ -55,6 +59,8 @@ public class LoginStepDefinition extends testBase {
 		
 		hyperLink =new hyperLinkPOM();
 		hyperLink.clickHyperlink();
+		
+		System.out.println("Added one new step");
 		
 		
 		}
