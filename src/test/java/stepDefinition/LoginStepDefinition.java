@@ -46,9 +46,11 @@ public class LoginStepDefinition extends testBase {
 		
 		System.out.println("Added one new step");
 		
-		System.out.println("Added one new step");
+		System.out.println("Adeleted one step");
 		
-		System.out.println("Added one new step");
+		System.out.println("Adeleted one step");
+		
+		System.out.println("Adeleted one step");
 		
 	}
 	
@@ -61,6 +63,8 @@ public class LoginStepDefinition extends testBase {
 		hyperLink.clickHyperlink();
 		
 		System.out.println("Added one new step");
+		
+		System.out.println("Adeleted one step");
 		
 		
 		}
